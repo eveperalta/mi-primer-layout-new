@@ -1,0 +1,191 @@
+.brand{
+	width:150px;
+	height:40px; 
+	margin-top: -8px;
+}
+
+.article{
+	text-align: center;
+}
+.grupal {
+	width: 100%;
+	height:auto;
+	margin: auto;
+}
+.grupalline{
+	
+	background-color: #686565;
+	height: 5px;
+	border: 0;
+  	width: 10%;
+}
+.coder{
+	background-color: black;
+	border: 0;
+  	width: 15%;
+  	height: 5px;
+  	margin-top: -20px; 
+  	margin-left: 40px;
+}
+h2{
+	padding: 10px;
+	}
+.foto1 {
+	background-image: url("../img/profile-1.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	position: relative;
+	left: 60px;
+	margin-right: 15px;
+}
+.foto2 {
+	background-image: url("../img/profile-2.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	left: 60px;
+	margin-right: 15px;
+	
+}
+.foto3 {
+	background-image: url("../img/profile-3.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	left: 60px;
+}
+.foto4 {
+	background-image: url("../img/profile-4.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	left: 60px;
+	margin-right: 15px;
+}
+.foto5 {
+	background-image: url("../img/profile-5.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	left: 60px;
+	margin-right: 15px;
+
+}
+.foto6 {
+	background-image: url("../img/profile-6.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 210px;
+	padding: 20px;
+	left: 60px;
+}
+
+.coders a{
+	color: #fff;
+	position: relative;
+	left: 0px;
+	top: 100px;
+}
+.contenedor{
+	background-color: #fff;
+	border: #7F7E7E 2px solid;
+	margin: auto;
+	margin: 20px auto;
+	width: 1200px;
+}
+h1{
+	text-align: center;
+}
+.perfil p{
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+}
+/*hasta aqui es el css del index*/
+.perfilcoder{
+
+    display: block;
+    margin: auto;
+    width: auto;
+    margin-top: 5px;
+}
+
+.perfil{
+	border: 1px solid black;
+	width: 90%;
+}
+
+.work1 {
+	background-image: url("../img/p5.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px;
+}
+.work2 {
+	background-image: url("../img/p6.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px;
+}
+.work3 {
+	background-image: url("../img/p8.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px; 
+}
+.work4 {
+	background-image: url("../img/p5.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px;
+}
+.work5 {
+	background-image: url("../img/p6.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px;
+}
+.work6 {
+	background-image: url("../img/p8.jpg");
+	width: 220px;
+	height: 220px;
+	background-size: 150%;
+	object-fit:fill;
+	padding-right: 5px;
+	margin: 8px;
+}
+/*hasta aqui es el codigo del detalle de las coders*/
+.pie{
+	background-color: #B9B8B8;
+	margin-top: 8px;
+	height: auto;
+	width: auto;
+	color: #000;
+}
